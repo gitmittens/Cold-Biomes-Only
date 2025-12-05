@@ -3,4 +3,4 @@ Just a GitHub page for me to put my Minecraft Datapacks I make. Anyone can contr
 
 
 ## Check them out on Modrinth!
-Only Cold Biomes - https://modrinth.com/datapack/cold-biomes-only
+Only Cold Biomes - [https://modrinth.com/datapack/cold-biomes-only](https://modrinth.com/project/D4jigjKI)
