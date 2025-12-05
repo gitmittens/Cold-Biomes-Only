@@ -1,6 +1,6 @@
-# Mitten's Datapacks
-Just a GitHub page for me to put my Minecraft Datapacks I make. Anyone can contribute to them if they would like
+# Cold Biomes Only
+A Minecraft Datapack that makes it so only cold biomes generate in your world!
 
 
-## Check them out on Modrinth!
+## Check it out on Modrinth!
 Only Cold Biomes - [https://modrinth.com/datapack/cold-biomes-only](https://modrinth.com/project/D4jigjKI)
